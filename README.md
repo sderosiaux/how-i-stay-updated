@@ -54,4 +54,16 @@ Of course, watching conferences and courses is a must.
 
 On Slack, we have a dedicated channels with moaaar links, and we share of that between us, about the topic we are working on.
 
+# Training
+
+Of course, training is essential.
+
+I spent some time on:
+
+- https://fr.coursera.org/: perfect
+- https://www.hackerrank.com/: always nice a have some challenges and discover new algorithms.
+- https://www.pluralsight.com/: less than coursera but followed some stuff
+- https://egghead.io/: nice free videos with react, redux, cycle and so on.
+
+
 
