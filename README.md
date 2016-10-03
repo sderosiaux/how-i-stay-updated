@@ -8,11 +8,6 @@ Of course. [@chtefid](https://twitter.com/chtefid)
 
 Posting a lot of links myself.
 
-# Blog
-
-I maintain a [blog](http://ctheu.com/). It's useful because you try to not say stupid things and must verify your affirmations. I mostly pick a topic I want to learn and share my findings.
-I have a tons of drafts and titles, but it's very hard to find time to write the articles. I often takes several evenings doing only that to make an article good enough for me. I must improve on that part.
-
 # Chrome
 
 My "new tab" is using [tabbie](https://tabbie.io/) since it was created. I never removed it.
@@ -91,4 +86,17 @@ Because I love to know lots of stuff and do links between knowledges.
 
 - Because in about a year of that, I learned SO MANY things in a lot of domains nonetheless, and got better overall.
 
+
+---
+
+# Blog
+
+Also, I maintain a [blog](http://ctheu.com/).
+
+I mostly pick a topic or a framework I want to learn and share my findings. (using a lot of [gists](https://gist.github.com/chtefi) too)
+It's useful because you try to not say stupid things and must verify your affirmations. 
+
+I have a tons of drafts and titles, but it's very hard to find time to write the articles.
+I often takes several evenings doing only that to make an article good enough for me.
+I must improve on that part.
 
