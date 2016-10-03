@@ -1,6 +1,6 @@
 Here is how i stay updated.
 
-I can now point to this repo if a recruiter asks me. :wink:
+I can now point to this repo if someone asks me. :wink:
 
 # Twitter 
 
