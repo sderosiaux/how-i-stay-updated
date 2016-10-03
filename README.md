@@ -48,4 +48,10 @@ Of course, watching conferences and courses is a must.
 
 - [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
 - [Compressor Head](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJGErt5rrCqaSGTMyyqNt2H) still need to finish that
+- [Facebook Developers](https://www.youtube.com/channel/UCP_lo1MFyx5IXDeD9s_6nUw) reactjs conferences, F8
+
+# My Company
+
+On Slack, we have a dedicated channels with moaaar links, and we share of that between us, about the topic we are working on.
+
 
