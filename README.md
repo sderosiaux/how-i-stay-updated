@@ -30,7 +30,7 @@ I'm using:
 - es.next news : 5 links, by [@rauschma](https://twitter.com/rauschma), useful  :star: :star: :star:
 - node weekly : quickly, to not miss any big feature  :star: :star:
 - reactjs weekly : quickly going through  :star: :star:
-- docker : the docker selection is nice, the second selection, depends on the title. But i don't practice enough yet. :star: :star: :star:
+- docker : the docker selection is nice, the second selection, depends on the title. But i don't use it enough yet. :star: :star: :star:
 - frontend focus (previously html5 weekly)  : quickly, to not miss any big feature  :star: :star:
 - graphql weekly : very quickly, graphql is graphql :star:
 
