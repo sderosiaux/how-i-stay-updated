@@ -24,7 +24,7 @@ I'm using:
 # Newsletters
 
 - http://highscalability.com/ : stuff-the-internet-says-on-scalability, quotes and numbers. A LOT of links to blogs and articles :star: :star: :star: :star: :star: 
-- hadoop weekly : ultra interesting, a must :star: :star: :star: :star: :star: 
+- hadoop weekly : ultra interesting for bigdata stuff, a must :star: :star: :star: :star: :star: 
 - pony foo : the ponyfoo's articles are a must. the selection of the NL is quite good :star: :star: :star: :star:
 - db weekly : not reading everything, but interesting when i know the db :star: :star: :star:
 - es.next news : 5 links, by [@rauschma](https://twitter.com/rauschma), useful  :star: :star: :star:
