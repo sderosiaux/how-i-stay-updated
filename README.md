@@ -73,4 +73,17 @@ I have a dozen of pdfs on my desktop about interesting stuff (scala, tdd, hadoop
 
 I'm often reading a physical book aside. It's more practical to stay focus. Right now, it's about DDD, super interesting ([Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)).
 
+# Why
+
+Because I love to know lots of stuff and do links between knowledge.
+
+# Why it's hard
+
+- Because my memory sucks and I'm sure I forget 90% of what I'm reading, and can't use it when needed
+- Because I don't have a lot of free time to read and learn all that, but i'm trying, sleeping is overrated
+
+# Why it's useful
+
+- Because in about a year of that, I learned SO MANY things in a lot of domains nonetheless, and got better overall.
+
 
