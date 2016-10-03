@@ -1,16 +1,16 @@
 # Newsletters
-- http://highscalability.com/ : stuff-the-internet-says-on-scalability, quotes and numbers. A LOT of links to blogs and articles
-- hadoop weekly : ultra interesting, a must
-- db weekly : not reading everything, but interesting when i know the db
-- pony foo : yes!the ponyfoo's articles are great.
-- node weekly : quickly, to not miss any big feature
-- es.next news : 5 links, by [@rauschma](https://twitter.com/rauschma), useful
-- reactjs weekly : quickly going through
-- docker : the docker selection is nice, the second selection, depends on the title
-- frontend focus (previously html5 weekly)  : quickly, to not miss any big feature
-- graphql weekly : very quickly, graphql is graphql
+- http://highscalability.com/ : stuff-the-internet-says-on-scalability, quotes and numbers. A LOT of links to blogs and articles :star: :star: :star: :star: :star: 
+- hadoop weekly : ultra interesting, a must :star: :star: :star: :star: :star: 
+- pony foo : the ponyfoo's articles are a must. the selection of the NL is quite good :star: :star: :star: :star:
+- db weekly : not reading everything, but interesting when i know the db :star: :star: :star:
+- es.next news : 5 links, by [@rauschma](https://twitter.com/rauschma), useful  :star: :star: :star:
+- node weekly : quickly, to not miss any big feature  :star: :star:
+- reactjs weekly : quickly going through  :star: :star:
+- docker : the docker selection is nice, the second selection, depends on the title. But i don't practice enough yet. :star: :star: :star:
+- frontend focus (previously html5 weekly)  : quickly, to not miss any big feature  :star: :star:
+- graphql weekly : very quickly, graphql is graphql :star:
 
 # Github
 Subscribed to some projects to read issues / PR and know where it's going (quite time consuming)
 - https://github.com/facebook/react/
-- https://github.com/druid-io/druid/
+- https://github.com/druid-io/druid/ 
