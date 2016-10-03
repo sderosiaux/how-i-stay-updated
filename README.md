@@ -65,5 +65,10 @@ I spent some time on:
 - https://www.pluralsight.com/: less than coursera but followed some stuff
 - https://egghead.io/: nice free videos with react, redux, cycle and so on.
 
+# Books
+
+I have a dozen of pdfs on my desktop about interesting stuff (scala, tdd, hadoop, elastic, akka, ...). I've finished some, and started some others. Barely have time to read them.
+
+I'm often reading a physical book aside. It's more practical to stay focus. Right now, it's about DDD, super interesting ([Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)).
 
 
