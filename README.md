@@ -30,13 +30,22 @@ I'm using:
 - es.next news : 5 links, by [@rauschma](https://twitter.com/rauschma), useful  :star: :star: :star:
 - node weekly : quickly, to not miss any big feature  :star: :star:
 - reactjs weekly : quickly going through  :star: :star:
-- docker : the docker selection is nice, the second selection, depends on the title. But i don't use it enough yet. :star: :star: :star:
+- blog.risingstack.com : often quite basic and succinct, but well written :star: :star: 
+- docker : the docker selection is nice, the second selection, depends on the title. But i don't use it enough yet. :star: :star:
 - frontend focus (previously html5 weekly)  : quickly, to not miss any big feature  :star: :star:
 - graphql weekly : very quickly, graphql is graphql :star:
 
-
-
 # Github
+
 Subscribed to some projects to read issues / PR and know where it's going (quite time consuming)
+
 - https://github.com/facebook/react/
 - https://github.com/druid-io/druid/ 
+
+# Youtube
+
+Of course, watching conferences and courses is a must.
+
+- [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
+- [Compressor Head](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJGErt5rrCqaSGTMyyqNt2H) still need to finish that
+
