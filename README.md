@@ -1,5 +1,5 @@
 # Newsletters
-- http://highscalability.com/ : stuff-the-internet-says-on-scalability, quotes and numbers
+- http://highscalability.com/ : stuff-the-internet-says-on-scalability, quotes and numbers. A LOT of links to blogs and articles
 
 # Github
 Subscribed to some projects to read issues / PR and know where it's going (quite time consuming)
