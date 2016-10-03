@@ -1,5 +1,7 @@
 Here is how i stay updated.
 
+I can now point to this repo if a recruiter asks me. :wink:
+
 # Twitter 
 
 Of course. [@chtefid](https://twitter.com/chtefid)
