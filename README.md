@@ -19,6 +19,11 @@ I'm using:
 - hackernews: often interesting topics and links. I go to the main website too, for the best.
 - dribble: because designers are doing cool stuff :-)
 
+# Bookmarks
+
+I have a special folder "TO READ" where I bookmarked for later. Before I was able to be stable around 10.
+Right now, I have like >100 insides. Always read some on evenings.
+
 # Websites
 
 - https://news.ycombinator.com/best: hackernews bests. often awesome or very interesting.
