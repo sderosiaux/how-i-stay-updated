@@ -21,7 +21,7 @@ I'm using:
 
 # Bookmarks
 
-I have a special folder "TO READ" where I bookmarked for later. Before I was able to be stable around 10.
+I have a special folder "TO READ" where I bookmark for later. Before I was able to be stable around 10.
 Right now, I have like >100 insides. Always read some on evenings.
 
 # Websites
