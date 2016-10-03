@@ -3,12 +3,14 @@ Here is how i stay updated.
 # Twitter 
 
 Of course. [@chtefid](https://twitter.com/chtefid)
+
 Posting a lot of links myself.
 
 # Chrome
 
 My "new tab" is using [tabbie](https://tabbie.io/) since it was created. I never removed it.
-It has:
+
+I'm using:
 
 - github: best daily starred repos. I often discover nice repo with this.
 - reddit: #programming #react #javascript. I click when i see an interesting title.
