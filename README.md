@@ -8,6 +8,16 @@ Of course. [@chtefid](https://twitter.com/chtefid)
 
 Posting a lot of links myself.
 
+# Blog
+
+I maintain a [blog](http://ctheu.com/). It's useful because you try to not say stupid things and must verify your affirmations.
+I have a tons of drafts and todos, very hard to find time to write them down. I often takes several evenings doing only that to make an article good enough for me. I must improve on that part.
+
+# TODO
+
+I maintain a TODO list with a tons of things/ideas/blog that crosses my mind.
+Some of them are more than 1 yo. Woops.
+
 # Chrome
 
 My "new tab" is using [tabbie](https://tabbie.io/) since it was created. I never removed it.
