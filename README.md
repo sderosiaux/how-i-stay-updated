@@ -75,7 +75,7 @@ I'm often reading a physical book aside. It's more practical to stay focus. Righ
 
 # Why
 
-Because I love to know lots of stuff and do links between knowledge.
+Because I love to know lots of stuff and do links between knowledges.
 
 # Why it's hard
 
