@@ -1,4 +1,8 @@
-Here is how i stay updated.
+Here is how i stay up-to-date.
+
+I'm a back-end guy, but I also did a lot of front-end, so I keep my front-end knowledge up to date. It's always useful when I want some quick UI to query some backend.
+
+> Meaning, a lots of stuff to watch.
 
 I can now point to this repo if someone asks me. :wink:
 
