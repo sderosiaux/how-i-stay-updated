@@ -30,7 +30,8 @@ Right now, I have like >100 insides. Always read some on evenings.
 
 # Newsletters
 
-- http://highscalability.com/ : stuff-the-internet-says-on-scalability, quotes and numbers. A LOT of links to blogs and articles :star: :star: :star: :star: :star: 
+- http://highscalability.com/ : stuff-the-internet-says-on-scalability, quotes and numbers. A LOT of links to blogs and articles :star: :star: :star: :star: :star:
+- Medium Daily Digest: I think I read 1/3 of the articles, good personal digest, technical and more worldwide ([mine](https://medium.com/@ChtefiD/)) :star: :star: :star: :star: :star:
 - hadoop weekly : ultra interesting for bigdata stuff, a must :star: :star: :star: :star: :star: 
 - pony foo : the ponyfoo's articles are a must. the selection of the NL is quite good :star: :star: :star: :star:
 - db weekly : not reading everything, but interesting when i know the db :star: :star: :star:
