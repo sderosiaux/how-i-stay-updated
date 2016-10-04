@@ -1,6 +1,6 @@
 Here is how i stay up-to-date.
 
-I'm a back-end guy, but I also did a lot of front-end, so I keep my front-end knowledge up to date. It's always useful when I want some quick UI to query some backend.
+I'm a back-end guy, but I also did a lot of front-end, so I keep my front-end knowledge up to date. It's always useful when I want some quick UI to query some backend. Working in IT, you know continuous delivery, continuous integration etc. so you must learn Continuous Learning !
 
 > Meaning, a lots of stuff to watch.
 
