@@ -19,7 +19,7 @@ My "new tab" is using [tabbie](https://tabbie.io/) since it was created. I never
 I'm using:
 
 - github: best daily starred repos. I often discover nice repo with this.
-- reddit: #programming #react #javascript. I click when i see an interesting title.
+- reddit: #programming #react #javascript #scala. I click when i see an interesting title.
 - hackernews: often interesting topics and links. I go to the main website too, for the best.
 - dribble: because designers are doing cool stuff :-)
 
