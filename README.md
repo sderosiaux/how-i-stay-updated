@@ -83,6 +83,10 @@ I have a dozen of pdfs on my desktop about interesting stuff (scala, tdd, hadoop
 
 I'm often reading a physical book aside. It's more practical to stay focus. Right now, it's about DDD, super interesting ([Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)).
 
+# More
+
+- [A guy learning everything too who wants to work at google](https://github.com/jwasham/google-interview-university) : lots of tech and data structure names to know
+
 # Why
 
 Because I love to know lots of stuff and do links between knowledges.
