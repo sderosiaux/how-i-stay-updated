@@ -54,13 +54,15 @@ Subscribed to some projects to read issues / PR and know where it's going (quite
 - https://github.com/facebook/react/
 - https://github.com/druid-io/druid/ 
 
-# Youtube
+# Videos
 
 Of course, watching conferences and courses is a must.
 
 - [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
 - [Compressor Head](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJGErt5rrCqaSGTMyyqNt2H) still need to finish that
 - [Facebook Developers](https://www.youtube.com/channel/UCP_lo1MFyx5IXDeD9s_6nUw) reactjs conferences, F8
+- [InfoQ](https://www.infoq.com/) mass amount of talks with slides
+- [Slideshare](https://www.slideshare.net) sometimes, you just want to get details from slides because it's more succinct
 
 # My Company
 
