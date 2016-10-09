@@ -27,6 +27,7 @@ I'm using:
 
 I have a special folder "TO READ" where I bookmark for later. Before I was able to be stable around 10.
 Right now, I have like >100 insides. Always read some on evenings.
+Once, I tried pocket, but, for some reason, I didn't like it.
 
 # Websites
 
@@ -35,21 +36,21 @@ Right now, I have like >100 insides. Always read some on evenings.
 # Newsletters
 
 - http://highscalability.com/ : stuff-the-internet-says-on-scalability, quotes and numbers. A LOT of links to blogs and articles :star: :star: :star: :star: :star:
-- Medium Daily Digest: I think I read 1/3 of the articles, good personal digest, technical and more worldwide ([mine](https://medium.com/@ChtefiD/)) :star: :star: :star: :star: :star:
-- hadoop weekly : ultra interesting for bigdata stuff, a must :star: :star: :star: :star: :star: 
-- pony foo : the ponyfoo's articles are a must. the selection of the NL is quite good :star: :star: :star: :star:
-- db weekly : not reading everything, but interesting when i know the db :star: :star: :star:
-- es.next news : 5 links, by [@rauschma](https://twitter.com/rauschma), useful  :star: :star: :star:
-- node weekly : quickly, to not miss any big feature  :star: :star:
-- reactjs weekly : quickly going through  :star: :star:
-- blog.risingstack.com : often quite basic and succinct, but well written :star: :star: 
-- docker : the docker selection is nice, the second selection, depends on the title. But i don't use it enough yet. :star: :star:
-- frontend focus (previously html5 weekly)  : quickly, to not miss any big feature  :star: :star:
-- graphql weekly : very quickly, graphql is graphql :star:
+- [Medium Daily Digest](https://medium.com/): I think I read 1/3 of the articles, good personal digest, technical and more worldwide ([mine](https://medium.com/@ChtefiD/)) :star: :star: :star: :star: :star:
+- [Hadoop Weekly](https://www.hadoopweekly.com/) : ultra interesting for bigdata stuff, a must :star: :star: :star: :star: :star: 
+- [Pony Foo](https://ponyfoo.com/) : the ponyfoo's articles are a must. the selection of the NL is quite good :star: :star: :star: :star:
+- [DB Weekly](http://dbweekly.com/) : not reading everything, but interesting when i know the db :star: :star: :star:
+- [ES.next news](http://esnextnews.com/) : 5 links, by [@rauschma](https://twitter.com/rauschma), useful  :star: :star: :star:
+- [Node Weekly](http://nodeweekly.com/) : quickly, to not miss any big feature  :star: :star:
+- [Reactjs Weekly](http://reactjsnewsletter.com/) : quickly going through  :star: :star:
+- [Risingstack.com](https://blog.risingstack.com/) : often quite basic and succinct, but well written :star: :star: 
+- [Docker Weekly](https://blog.docker.com/docker-weekly-archives/): the docker selection is nice, the second selection, depends on the title. But i don't use it enough yet. :star: :star:
+- [Frontend Focus (previously html5 weekly)](http://frontendfocus.co/issues/260)  : quickly, to not miss any big feature  :star: :star:
+- [Graphql Weekly](https://www.graphqlweekly.com/) : very quickly, graphql is graphql :star:
 
 # Github
 
-Subscribed to some projects to read issues / PR and know where it's going (quite time consuming)
+Subscribed to some projects to read issues / PR and know where it's going (quite time consuming).
 
 - https://github.com/facebook/react/
 - https://github.com/druid-io/druid/ 
@@ -74,9 +75,9 @@ Of course, training is essential.
 
 I spent some time on:
 
-- https://fr.coursera.org/: perfect
-- https://www.hackerrank.com/: always nice a have some challenges and discover new algorithms.
-- https://www.pluralsight.com/: less than coursera but followed some stuff
+- https://fr.coursera.org/: perfect when I want to get into unknown
+- https://www.hackerrank.com/: always nice a have some challenges and discover new algorithms, mostly using Scala
+- https://www.pluralsight.com/: less than coursera but I followed some stuff a while ago
 - https://egghead.io/: nice free videos with react, redux, cycle and so on.
 
 # Books
@@ -87,7 +88,7 @@ I'm often reading a physical book aside. It's more practical to stay focus. Righ
 
 # More
 
-- [A guy learning everything too who wants to work at google](https://github.com/jwasham/google-interview-university) : lots of tech and data structure names to know
+- [A guy learning everything who wants to work at google](https://github.com/jwasham/google-interview-university) : lots of tech and data structure names to know
 
 # Why
 
