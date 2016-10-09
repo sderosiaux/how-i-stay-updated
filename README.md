@@ -50,10 +50,8 @@ Once, I tried pocket, but, for some reason, I didn't like it.
 
 # Github
 
-Subscribed to some projects to read issues / PR and know where it's going (quite time consuming).
-
-- https://github.com/facebook/react/
-- https://github.com/druid-io/druid/ 
+I subscribed to some projects to read issues and PR and know where it's going but it's quite time consuming.
+So I don't recommend it except if you are really into open-source.
 
 # Videos
 
