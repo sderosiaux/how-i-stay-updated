@@ -48,6 +48,8 @@ Once, I tried pocket, but, for some reason, I didn't like it.
 - [Frontend Focus (previously html5 weekly)](http://frontendfocus.co/issues/260)  : quickly, to not miss any big feature  :star: :star:
 - [Graphql Weekly](https://www.graphqlweekly.com/) : very quickly, graphql is graphql :star:
 
+- [Data Elixir](http://dataelixir.com/): about... data as you guessed. I stopped this one. Interesting, about ML, and data in general.
+
 # Github
 
 I subscribed to some projects to read issues and PR and know where it's going but it's quite time consuming.
