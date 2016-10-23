@@ -1,5 +1,7 @@
 Here is how i stay up-to-date.
 
+> Here, a blog post of this README I wrote after, with more details: http://ctheu.com/2016/10/23/are-you-up-to-date/
+
 I'm a back-end guy, but I also did a lot of front-end, so I keep my front-end knowledge up to date. It's always useful when I want some quick UI to query some backend. Working in IT, you know continuous delivery, continuous integration etc. so you must learn Continuous Learning !
 
 > Meaning, a lots of stuff to watch.
