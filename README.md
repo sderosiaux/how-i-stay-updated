@@ -38,6 +38,7 @@ Once, I tried pocket, but, for some reason, I didn't like it.
 # Newsletters
 
 - http://highscalability.com/ : stuff-the-internet-says-on-scalability, quotes and numbers. A LOT of links to blogs and articles :star: :star: :star: :star: :star:
+- http://www.confluent.io/blog/: top quality articles about confluent platform (kafka, streams, connect..)  :star: :star: :star: :star: :star:
 - [Medium Daily Digest](https://medium.com/): I think I read 1/3 of the articles, good personal digest, technical and more worldwide ([mine](https://medium.com/@ChtefiD/)) :star: :star: :star: :star: :star:
 - [Hadoop Weekly](https://www.hadoopweekly.com/) : ultra interesting for bigdata stuff, a must :star: :star: :star: :star: :star: 
 - [Pony Foo](https://ponyfoo.com/) : the ponyfoo's articles are a must. the selection of the NL is quite good :star: :star: :star: :star:
