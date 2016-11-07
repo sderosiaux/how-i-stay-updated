@@ -28,12 +28,13 @@ I'm using:
 # Bookmarks
 
 I have a special folder "TO READ" where I bookmark for later. Before I was able to be stable around 10.
-Right now, I have like >100 insides. Always read some on evenings.
-Once, I tried pocket, but, for some reason, I didn't like it.
+Right now, I have like more than 100 inside. I'm always reading some on evenings.
+A few month ago, I tried pocket, but, for some reason, I didn't like it.
 
 # Websites
 
-- https://news.ycombinator.com/best: hackernews bests. often awesome or very interesting.
+- https://news.ycombinator.com/best: hackernews bests. often awesome or at least very interesting.
+- https://www.linkedin.com/: joined some groups (Spark, front-end, react, big data..) to get some _nice_ links _sometimes_ in my feed and emails
 
 # Newsletters
 
