@@ -85,6 +85,7 @@ I spent some time on:
 - https://www.hackerrank.com/: always nice a have some challenges and discover new algorithms, mostly using Scala
 - https://www.pluralsight.com/: less than coursera but I followed some stuff a while ago
 - https://egghead.io/: nice free videos with react, redux, cycle and so on.
+- https://www.datacamp.com/: datascience. I did some R over there, nice flow.
 
 # Books
 
