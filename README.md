@@ -44,7 +44,7 @@ A few month ago, I tried pocket, but, for some reason, I didn't like it.
 - [Medium Daily Digest](https://medium.com/): I think I read 1/3 of the articles, good personal digest, technical and more worldwide ([mine](https://medium.com/@ChtefiD/)) :star: :star: :star: :star: :star:
 - [Hadoop Weekly](https://www.hadoopweekly.com/) : ultra interesting for bigdata stuff, a must :star: :star: :star: :star: :star: 
 - [Pony Foo](https://ponyfoo.com/) : the ponyfoo's articles are a must. the selection of the NL is quite good :star: :star: :star: :star:
-- [Ship It](http://shipit.works/): about shipping, delivering, system and devops culture. Quite interesting.
+- [Ship It](http://shipit.works/): about shipping, delivering, sysadmin and devops culture. Quite interesting.
 - [Dev Tips](https://umaar.com/dev-tips/) : one topic, one gif, one message. Good to know.
 - [DB Weekly](http://dbweekly.com/) : not reading everything, but interesting when i know the db :star: :star: :star:
 - [ES.next news](http://esnextnews.com/) : 5 links, by [@rauschma](https://twitter.com/rauschma), useful  :star: :star: :star:
